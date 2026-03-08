@@ -1,0 +1,801 @@
+appetite_loss,vomiting,diarrhea,lethargy,coughing,nasal_discharge,weight_loss,excessive_salivation,seizures,age,breed_size,vaccination_status,disease
+yes,yes,yes,yes,no,yes,yes,no,no,0.79,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,yes,no,0.6,small,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.42,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.47,small,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.57,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.49,small,incomplete,Parvovirus
+yes,yes,yes,yes,yes,no,yes,no,no,0.39,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.74,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.33,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.24,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.77,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.4,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,1.0,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.83,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.64,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.71,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.98,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.69,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,yes,0.46,medium,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.9,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.3,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.94,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.55,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,yes,no,0.67,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.26,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.66,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.54,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.78,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.42,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,1.0,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.37,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.83,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.32,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.67,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.68,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.23,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.77,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.95,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.41,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.76,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.28,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.68,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.93,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,yes,no,0.71,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.96,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.3,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.82,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.33,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.94,large,unknown,Parvovirus
+yes,no,yes,yes,no,no,yes,no,no,0.9,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.9,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.42,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,yes,0.9,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.78,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,yes,0.24,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.74,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.3,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.3,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.64,medium,complete,Parvovirus
+yes,yes,no,yes,no,no,yes,no,no,0.55,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.27,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.45,small,unknown,Parvovirus
+yes,yes,yes,yes,yes,no,yes,no,no,0.26,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.32,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.57,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.68,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.64,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.42,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.42,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.37,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.92,large,incomplete,Parvovirus
+yes,yes,yes,yes,yes,no,yes,no,no,0.95,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.64,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.74,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.22,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.35,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.8,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.96,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.36,small,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.57,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.86,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.5,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.82,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.63,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.28,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.62,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.78,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.57,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.48,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,yes,0.96,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.77,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.67,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.56,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.81,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.68,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.3,small,complete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.59,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.4,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.24,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.53,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.89,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.81,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.2,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.89,small,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.95,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.25,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.75,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.55,medium,incomplete,Parvovirus
+yes,yes,yes,yes,yes,no,yes,no,no,0.67,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.62,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.27,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.6,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.46,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,yes,no,0.57,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.36,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.69,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.87,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.76,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.94,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.95,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.59,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.95,large,unknown,Parvovirus
+yes,yes,no,yes,no,no,yes,no,no,0.45,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.6,large,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.28,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.58,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.74,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.69,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.28,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.84,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.34,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.31,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.43,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.54,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.66,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.65,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.92,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.74,large,incomplete,Parvovirus
+yes,yes,yes,no,no,no,yes,no,no,0.23,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.8,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.42,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.57,small,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.84,medium,incomplete,Parvovirus
+yes,yes,yes,yes,yes,no,yes,no,no,0.74,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,yes,0.91,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.44,small,incomplete,Parvovirus
+yes,yes,yes,yes,yes,yes,yes,no,no,0.39,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.54,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.95,large,incomplete,Parvovirus
+yes,no,yes,yes,no,no,yes,no,no,0.28,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.97,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.24,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.67,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,yes,0.89,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.31,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,yes,yes,no,no,0.54,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.6,small,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.71,medium,complete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.55,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.64,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.76,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.91,medium,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.4,large,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.28,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.3,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.43,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,no,no,no,0.29,medium,unknown,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,yes,0.65,large,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,yes,no,0.86,small,incomplete,Parvovirus
+yes,yes,yes,yes,no,no,yes,no,no,0.35,large,incomplete,Parvovirus
+no,yes,no,yes,yes,yes,yes,no,yes,3.59,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,6.13,small,complete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,1.27,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,0.82,small,complete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,1.38,small,incomplete,Distemper
+no,no,no,yes,yes,yes,yes,no,yes,0.54,medium,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,yes,2.87,large,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,3.44,medium,complete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,1.87,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,yes,no,yes,4.98,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,5.58,large,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,yes,3.76,medium,incomplete,Distemper
+no,no,yes,yes,yes,yes,no,yes,no,2.58,small,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,3.82,large,unknown,Distemper
+yes,no,no,yes,yes,yes,no,no,no,6.76,small,unknown,Distemper
+no,yes,no,yes,yes,yes,no,no,no,1.61,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,yes,no,no,2.91,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,yes,no,4.83,medium,complete,Distemper
+yes,no,no,yes,yes,yes,yes,no,yes,4.65,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,5.31,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,yes,8.0,medium,complete,Distemper
+no,yes,no,yes,yes,yes,no,no,yes,2.96,small,incomplete,Distemper
+no,yes,yes,yes,yes,yes,no,no,no,5.88,medium,complete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,4.46,medium,incomplete,Distemper
+no,yes,no,yes,yes,yes,no,no,no,6.31,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,7.04,small,incomplete,Distemper
+no,no,yes,yes,yes,yes,yes,no,no,4.3,small,unknown,Distemper
+no,no,no,yes,yes,yes,no,yes,yes,4.22,small,complete,Distemper
+yes,yes,no,yes,yes,no,no,no,no,1.45,medium,complete,Distemper
+no,yes,no,yes,yes,yes,no,yes,yes,2.35,large,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,yes,2.21,large,incomplete,Distemper
+no,yes,no,yes,yes,yes,no,yes,no,2.24,medium,complete,Distemper
+yes,no,no,yes,yes,yes,yes,no,no,3.14,large,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,7.86,small,complete,Distemper
+yes,yes,no,yes,yes,yes,no,no,no,6.15,medium,complete,Distemper
+no,no,yes,yes,yes,yes,no,no,no,5.2,small,unknown,Distemper
+no,no,yes,yes,yes,yes,yes,no,no,2.8,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,6.33,medium,unknown,Distemper
+yes,no,no,yes,yes,yes,no,no,no,2.98,large,complete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,4.98,large,unknown,Distemper
+yes,yes,no,yes,yes,yes,yes,no,no,1.67,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,7.6,large,complete,Distemper
+no,no,no,yes,yes,yes,yes,yes,no,5.55,small,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,5.56,medium,unknown,Distemper
+no,yes,yes,yes,yes,yes,no,no,no,7.7,small,complete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,7.97,medium,complete,Distemper
+yes,yes,yes,yes,yes,yes,yes,no,no,6.56,medium,unknown,Distemper
+no,no,no,yes,yes,yes,yes,no,yes,5.79,small,incomplete,Distemper
+no,no,yes,yes,yes,yes,yes,no,no,0.6,medium,incomplete,Distemper
+no,no,yes,yes,yes,yes,no,yes,no,5.85,medium,incomplete,Distemper
+no,no,yes,yes,yes,yes,no,no,no,5.57,large,incomplete,Distemper
+no,yes,no,yes,yes,yes,no,no,yes,1.34,small,complete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,1.0,large,complete,Distemper
+yes,no,no,yes,yes,yes,yes,no,no,4.81,large,complete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,0.75,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,yes,no,4.55,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,yes,yes,yes,3.74,small,incomplete,Distemper
+yes,yes,no,yes,yes,yes,no,no,no,3.43,large,incomplete,Distemper
+no,no,no,yes,yes,yes,yes,no,yes,2.61,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,1.84,large,complete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,2.23,small,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,6.84,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,4.6,large,complete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,1.13,medium,incomplete,Distemper
+no,no,yes,yes,yes,yes,no,no,yes,0.7,medium,incomplete,Distemper
+no,yes,no,yes,yes,yes,yes,no,no,3.39,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,0.53,small,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,4.01,large,unknown,Distemper
+no,no,no,yes,yes,yes,yes,no,no,6.79,large,complete,Distemper
+yes,no,no,yes,yes,yes,yes,no,no,3.54,large,complete,Distemper
+no,no,no,yes,yes,yes,no,yes,yes,1.98,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,5.54,large,unknown,Distemper
+no,no,no,yes,yes,yes,yes,no,no,2.11,medium,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,7.5,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,6.52,medium,complete,Distemper
+no,yes,no,yes,yes,yes,no,no,yes,6.69,large,complete,Distemper
+no,yes,no,yes,yes,yes,no,no,no,4.44,small,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,7.83,large,complete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,5.31,small,unknown,Distemper
+no,no,no,yes,yes,yes,no,yes,no,3.58,small,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,7.06,large,complete,Distemper
+no,no,no,yes,yes,yes,no,no,no,7.16,large,complete,Distemper
+no,yes,yes,yes,yes,yes,yes,no,no,1.82,medium,incomplete,Distemper
+no,no,yes,yes,yes,yes,no,no,no,4.32,large,complete,Distemper
+yes,no,no,yes,yes,yes,no,yes,no,3.8,medium,complete,Distemper
+yes,no,yes,yes,yes,yes,no,no,yes,1.3,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,7.55,small,incomplete,Distemper
+yes,yes,yes,yes,yes,yes,no,no,no,4.57,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,4.39,medium,incomplete,Distemper
+yes,no,yes,yes,yes,yes,no,no,no,1.54,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,0.82,medium,complete,Distemper
+no,yes,no,yes,yes,yes,no,no,no,6.61,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,yes,no,7.89,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,7.95,medium,incomplete,Distemper
+yes,no,no,yes,no,yes,no,no,no,1.76,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,yes,no,5.87,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,yes,no,no,1.26,medium,unknown,Distemper
+no,no,no,yes,yes,yes,yes,yes,no,3.79,small,incomplete,Distemper
+yes,yes,no,yes,yes,yes,no,no,no,1.47,small,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,2.69,large,complete,Distemper
+no,no,no,yes,yes,yes,no,no,no,1.73,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,3.56,medium,complete,Distemper
+yes,no,no,yes,yes,yes,yes,no,yes,3.92,medium,complete,Distemper
+no,no,yes,yes,yes,yes,yes,no,no,7.41,small,unknown,Distemper
+no,no,yes,yes,yes,yes,no,no,yes,0.95,large,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,0.52,large,unknown,Distemper
+yes,no,no,yes,yes,yes,yes,no,yes,7.35,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,yes,no,no,1.15,medium,unknown,Distemper
+no,no,no,yes,yes,yes,no,yes,no,6.03,large,complete,Distemper
+no,no,no,yes,yes,yes,yes,no,yes,6.73,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,3.9,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,0.85,small,complete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,5.77,large,complete,Distemper
+no,yes,no,yes,yes,yes,no,no,no,0.52,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,yes,no,5.52,small,unknown,Distemper
+yes,yes,yes,yes,yes,yes,yes,no,no,2.43,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,1.01,large,unknown,Distemper
+no,yes,no,yes,yes,yes,no,yes,yes,1.7,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,2.15,large,unknown,Distemper
+no,no,yes,yes,yes,yes,yes,no,no,4.68,medium,complete,Distemper
+yes,no,yes,yes,yes,yes,no,no,no,2.67,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,7.91,large,incomplete,Distemper
+no,no,yes,yes,yes,yes,yes,yes,no,5.07,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,3.68,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,yes,yes,no,3.29,small,incomplete,Distemper
+no,no,yes,yes,yes,yes,yes,no,no,2.45,small,complete,Distemper
+no,yes,no,yes,yes,yes,yes,yes,no,4.94,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,2.24,large,incomplete,Distemper
+yes,yes,yes,yes,yes,yes,no,yes,no,3.6,small,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,1.43,medium,complete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,6.93,small,unknown,Distemper
+yes,no,no,yes,yes,yes,no,no,no,2.83,large,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,1.27,large,incomplete,Distemper
+no,yes,no,yes,yes,yes,yes,no,no,1.99,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,2.32,medium,complete,Distemper
+no,yes,no,yes,yes,yes,no,no,no,7.39,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,1.23,large,complete,Distemper
+yes,no,yes,yes,yes,yes,no,no,no,6.12,medium,unknown,Distemper
+yes,yes,no,no,yes,yes,no,no,no,2.08,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,yes,yes,3.56,small,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,3.05,large,complete,Distemper
+no,no,no,yes,yes,yes,no,no,no,5.32,small,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,3.91,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,yes,no,yes,4.9,large,incomplete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,4.48,small,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,5.05,medium,incomplete,Distemper
+yes,no,yes,yes,yes,yes,no,no,no,4.89,medium,incomplete,Distemper
+yes,no,yes,yes,yes,yes,no,no,no,1.45,small,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,yes,2.6,medium,complete,Distemper
+no,no,no,yes,yes,yes,no,no,no,4.67,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,yes,yes,6.18,medium,complete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,4.28,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,yes,no,4.55,small,unknown,Distemper
+no,no,yes,yes,yes,yes,no,yes,no,6.95,small,complete,Distemper
+no,no,no,yes,yes,yes,no,no,no,5.21,small,complete,Distemper
+no,no,no,yes,yes,yes,no,no,no,1.68,medium,unknown,Distemper
+yes,no,no,yes,yes,yes,no,no,yes,7.72,small,incomplete,Distemper
+no,no,yes,no,yes,yes,no,no,no,6.7,large,incomplete,Distemper
+yes,yes,no,yes,yes,yes,no,no,yes,6.44,medium,incomplete,Distemper
+no,no,no,yes,yes,yes,no,no,no,0.42,large,incomplete,Distemper
+yes,no,no,no,yes,yes,no,no,no,3.42,small,unknown,Distemper
+no,no,no,yes,yes,yes,no,no,no,6.39,small,unknown,Distemper
+yes,no,no,yes,yes,yes,yes,no,yes,3.87,medium,unknown,Distemper
+yes,no,yes,yes,yes,yes,no,no,no,2.48,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,yes,no,no,6.14,small,incomplete,Distemper
+no,yes,no,yes,yes,yes,yes,no,no,0.47,small,incomplete,Distemper
+no,no,yes,yes,yes,yes,yes,no,no,1.18,medium,incomplete,Distemper
+yes,no,no,yes,yes,yes,yes,no,yes,4.43,large,complete,Distemper
+yes,no,no,yes,yes,yes,no,no,no,3.76,small,complete,Distemper
+yes,yes,no,yes,yes,yes,no,no,no,2.28,small,incomplete,Distemper
+no,no,no,no,yes,no,no,no,no,8.54,medium,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,7.92,small,incomplete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,9.79,medium,unknown,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,7.72,small,unknown,Kennel Cough
+yes,no,no,yes,yes,yes,yes,no,no,7.98,large,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,5.56,small,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,4.15,large,incomplete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,0.96,medium,complete,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,2.09,small,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,7.32,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.62,large,complete,Kennel Cough
+yes,no,no,no,yes,no,yes,no,no,3.86,large,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,1.51,small,incomplete,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,1.84,small,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,4.4,medium,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,2.54,small,incomplete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,3.54,small,incomplete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,3.94,small,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,0.63,large,incomplete,Kennel Cough
+no,no,no,no,yes,no,yes,no,no,8.55,small,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,1.77,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.76,small,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,6.76,medium,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.45,small,complete,Kennel Cough
+no,no,no,yes,yes,no,no,yes,no,4.72,small,complete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,1.55,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,1.82,medium,incomplete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,9.54,large,unknown,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,0.51,small,unknown,Kennel Cough
+yes,no,no,no,yes,yes,no,no,yes,5.99,small,complete,Kennel Cough
+yes,no,no,yes,yes,no,no,no,no,9.09,medium,unknown,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,7.35,medium,complete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,8.88,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,1.24,medium,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,8.03,large,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,4.13,medium,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,4.93,large,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,8.24,small,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.38,small,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,0.67,large,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,5.13,medium,complete,Kennel Cough
+yes,no,no,yes,yes,no,yes,no,no,3.58,small,incomplete,Kennel Cough
+yes,no,no,yes,yes,no,no,no,no,1.82,small,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.44,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,6.54,medium,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,2.54,small,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,yes,no,7.14,large,incomplete,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,5.83,small,unknown,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,9.65,large,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,1.05,small,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,4.37,medium,unknown,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,7.0,small,complete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,3.68,small,unknown,Kennel Cough
+no,no,no,no,yes,no,yes,no,no,6.29,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.58,medium,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,2.68,large,complete,Kennel Cough
+no,no,no,no,yes,yes,yes,no,no,8.31,medium,incomplete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,8.5,medium,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,3.96,small,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,0.99,large,incomplete,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,2.58,medium,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,8.86,small,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,5.89,small,unknown,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,8.16,medium,complete,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,6.11,large,complete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,3.05,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,1.82,small,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,3.7,medium,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,6.34,medium,incomplete,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,9.24,small,unknown,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,6.97,small,unknown,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,4.4,small,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.99,small,complete,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,5.86,small,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,3.03,large,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,4.68,medium,unknown,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,7.01,medium,complete,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,2.56,large,complete,Kennel Cough
+no,no,no,yes,yes,no,no,yes,no,9.15,large,incomplete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,7.21,medium,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,6.39,small,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,6.25,small,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,6.7,large,unknown,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,8.1,large,incomplete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,9.11,large,complete,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,2.53,medium,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,8.81,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.49,large,unknown,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,3.58,medium,complete,Kennel Cough
+no,yes,no,yes,yes,yes,no,no,no,6.36,small,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,8.6,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,8.68,small,complete,Kennel Cough
+no,no,no,no,yes,yes,no,yes,no,3.03,small,incomplete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,4.56,medium,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,0.54,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.71,medium,complete,Kennel Cough
+no,no,no,no,yes,yes,yes,no,no,4.78,large,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.85,medium,complete,Kennel Cough
+yes,no,no,yes,yes,no,no,yes,no,5.24,large,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,0.87,large,unknown,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,1.59,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,6.76,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.11,medium,incomplete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,7.15,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,0.52,small,complete,Kennel Cough
+no,no,no,no,yes,yes,yes,no,no,7.35,medium,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,8.21,medium,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,8.95,small,complete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,8.83,medium,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,8.57,large,incomplete,Kennel Cough
+no,no,no,yes,yes,yes,no,no,no,8.51,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,6.27,large,unknown,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,0.84,medium,complete,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,2.55,medium,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,5.03,large,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,6.58,medium,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,9.71,small,complete,Kennel Cough
+no,no,no,no,yes,no,yes,no,no,5.9,medium,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,4.36,small,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,5.8,medium,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,5.78,medium,incomplete,Kennel Cough
+no,no,no,no,yes,no,yes,no,no,0.42,large,complete,Kennel Cough
+no,no,no,yes,yes,no,no,yes,no,1.98,large,complete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,8.58,small,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,6.05,medium,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,yes,no,7.47,medium,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,5.95,small,incomplete,Kennel Cough
+yes,no,no,no,yes,no,no,no,no,4.42,large,incomplete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,1.68,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,7.47,small,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,9.82,small,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,5.01,large,incomplete,Kennel Cough
+no,no,yes,no,yes,no,no,no,no,4.45,small,complete,Kennel Cough
+yes,no,no,yes,yes,no,no,no,no,1.94,medium,complete,Kennel Cough
+yes,no,no,yes,yes,no,no,no,no,3.84,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,2.68,large,incomplete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.77,large,complete,Kennel Cough
+yes,no,no,no,yes,yes,no,no,no,4.65,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,7.85,medium,unknown,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,1.55,medium,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,7.21,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,3.29,large,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,1.05,medium,incomplete,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,3.58,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,yes,no,6.82,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.19,medium,unknown,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,5.34,medium,incomplete,Kennel Cough
+yes,no,no,no,yes,yes,no,no,yes,2.01,large,unknown,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,6.98,small,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.42,small,incomplete,Kennel Cough
+yes,no,no,no,yes,yes,yes,no,no,2.82,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,4.14,small,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,1.1,small,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,4.06,small,unknown,Kennel Cough
+no,no,no,no,yes,yes,no,no,no,5.64,small,unknown,Kennel Cough
+no,no,no,no,yes,no,no,no,no,9.59,large,complete,Kennel Cough
+yes,no,no,yes,yes,no,no,no,no,1.22,large,complete,Kennel Cough
+no,no,no,no,yes,no,no,no,no,1.95,medium,complete,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,9.35,medium,unknown,Kennel Cough
+no,no,no,yes,yes,no,no,no,no,5.97,medium,unknown,Kennel Cough
+yes,yes,yes,yes,no,no,yes,no,no,10.84,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,6.96,medium,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,8.66,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,5.97,medium,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,1.35,small,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,8.84,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,2.87,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,2.12,small,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,6.21,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,yes,yes,no,no,11.79,small,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,6.96,large,complete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,3.09,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,4.9,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,7.75,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,4.64,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,4.49,medium,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,5.5,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,7.38,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,5.95,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,yes,no,7.05,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,3.4,large,complete,Gastroenteritis
+yes,yes,yes,no,no,no,no,yes,no,8.75,medium,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,5.99,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,8.05,small,incomplete,Gastroenteritis
+yes,yes,no,no,no,no,no,no,no,3.07,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,5.27,large,complete,Gastroenteritis
+yes,yes,yes,yes,yes,no,no,yes,no,9.49,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,0.41,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,5.38,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,7.08,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,7.34,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,yes,no,6.46,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,1.64,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,7.5,medium,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,4.69,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,8.94,small,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,2.89,medium,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,4.91,small,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,1.42,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,5.05,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,2.43,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,2.66,large,unknown,Gastroenteritis
+no,yes,yes,yes,no,no,yes,yes,no,3.18,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,5.1,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,8.82,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,2.66,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,6.24,small,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,7.07,medium,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,11.55,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,1.18,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,6.39,large,complete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,9.92,large,complete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,3.52,large,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,3.21,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,9.44,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,6.68,medium,complete,Gastroenteritis
+yes,no,yes,yes,no,no,no,no,no,7.06,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,9.1,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,yes,no,4.43,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,0.5,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,2.57,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,5.32,large,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,7.03,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,yes,yes,no,no,5.41,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,2.45,small,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,9.51,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,1.1,medium,incomplete,Gastroenteritis
+yes,yes,yes,no,no,yes,no,no,no,4.58,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,7.42,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,4.17,medium,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,5.78,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,5.1,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,3.5,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,7.21,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,3.32,large,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,11.27,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,1.61,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,8.96,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,yes,no,4.54,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,1.97,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,6.94,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,9.73,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,yes,no,9.86,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,9.16,small,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,6.76,medium,complete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,7.89,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,10.96,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,2.58,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,8.53,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,yes,no,no,yes,no,11.68,medium,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,0.57,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,8.48,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,4.95,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,0.55,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,2.71,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,4.02,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,3.34,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,1.71,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,9.55,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,9.34,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,9.21,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,6.06,large,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,2.64,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,5.48,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,8.9,large,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,3.83,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,2.55,large,complete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,8.04,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,3.68,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,yes,no,11.28,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,10.1,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,7.43,small,complete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,1.33,small,unknown,Gastroenteritis
+yes,yes,no,yes,no,no,no,no,no,9.61,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,yes,yes,no,no,11.36,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,8.02,large,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,9.29,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,9.59,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,11.23,large,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,5.39,medium,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,11.14,medium,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,11.8,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,2.97,small,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,6.33,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,yes,yes,no,no,4.66,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,11.05,small,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,8.4,small,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,1.31,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,10.49,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,4.84,large,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,2.96,large,complete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,6.25,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,7.03,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,1.91,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,7.55,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,11.12,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,7.29,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,7.63,small,incomplete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,8.85,small,complete,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,10.06,small,incomplete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,4.25,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,7.63,large,complete,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,0.9,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,yes,no,no,no,8.0,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,10.43,medium,complete,Gastroenteritis
+yes,yes,yes,no,no,no,yes,no,no,11.73,medium,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,yes,no,no,11.61,large,unknown,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,4.96,small,complete,Gastroenteritis
+yes,yes,yes,yes,no,no,no,no,no,11.75,medium,unknown,Gastroenteritis
+yes,yes,yes,no,no,no,no,no,no,9.85,large,complete,Gastroenteritis
+no,no,no,yes,no,no,yes,no,no,6.49,large,unknown,Tick Fever
+no,no,no,yes,no,no,no,no,no,7.46,large,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,8.42,small,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,1.28,large,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,yes,no,5.26,medium,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,1.73,small,complete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,8.4,small,incomplete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,10.3,medium,incomplete,Tick Fever
+yes,yes,yes,yes,no,no,yes,yes,no,5.25,large,unknown,Tick Fever
+no,no,yes,yes,no,no,yes,no,no,6.13,medium,incomplete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,5.03,large,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,10.01,small,complete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,1.07,medium,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,1.13,small,unknown,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,10.78,small,unknown,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,10.65,medium,complete,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,8.62,medium,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,6.83,small,complete,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,8.69,medium,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,2.83,medium,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,2.99,medium,unknown,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,7.73,small,complete,Tick Fever
+yes,yes,no,yes,no,yes,yes,yes,no,7.44,small,incomplete,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,7.34,small,unknown,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,10.82,medium,complete,Tick Fever
+no,yes,no,yes,no,yes,yes,no,no,5.26,large,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,8.83,large,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,1.99,medium,unknown,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,11.76,small,complete,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,5.26,medium,incomplete,Tick Fever
+yes,no,yes,yes,no,yes,yes,no,no,4.04,large,unknown,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,0.83,small,complete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,6.04,medium,unknown,Tick Fever
+no,no,no,yes,no,no,yes,no,no,10.1,large,incomplete,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,10.71,small,incomplete,Tick Fever
+no,no,yes,yes,no,no,yes,no,no,7.07,small,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,yes,5.26,small,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,0.93,small,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,8.92,medium,unknown,Tick Fever
+no,yes,no,yes,no,no,yes,no,no,2.03,small,unknown,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,7.33,medium,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,4.09,medium,complete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,2.31,small,complete,Tick Fever
+no,no,yes,yes,no,no,yes,no,no,11.35,large,incomplete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,5.91,small,unknown,Tick Fever
+yes,yes,no,yes,no,yes,yes,no,no,10.12,medium,unknown,Tick Fever
+no,no,no,yes,no,no,yes,no,no,11.7,large,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,8.67,medium,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,8.55,medium,unknown,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,5.8,medium,complete,Tick Fever
+no,no,yes,yes,no,yes,yes,no,no,4.25,small,unknown,Tick Fever
+no,no,yes,yes,no,no,yes,no,no,11.7,small,incomplete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,6.76,small,complete,Tick Fever
+no,yes,no,yes,no,no,yes,no,no,5.82,small,unknown,Tick Fever
+no,yes,no,yes,no,yes,yes,no,no,9.37,medium,incomplete,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,7.82,small,complete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,10.59,large,incomplete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,11.89,small,unknown,Tick Fever
+no,no,no,yes,no,no,yes,no,no,11.63,large,complete,Tick Fever
+yes,no,yes,yes,no,yes,yes,yes,yes,7.29,medium,unknown,Tick Fever
+no,no,no,yes,no,no,yes,no,no,6.89,medium,incomplete,Tick Fever
+yes,no,no,yes,no,yes,yes,no,yes,8.8,large,incomplete,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,9.57,medium,unknown,Tick Fever
+no,no,no,yes,no,no,yes,no,no,5.38,large,complete,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,0.88,large,complete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,6.55,medium,incomplete,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,8.19,large,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,yes,5.72,large,incomplete,Tick Fever
+no,no,no,yes,no,no,yes,no,yes,11.11,medium,unknown,Tick Fever
+no,no,yes,yes,no,no,yes,no,no,11.89,large,unknown,Tick Fever
+yes,no,yes,yes,no,yes,yes,no,no,7.58,medium,incomplete,Tick Fever
+yes,yes,yes,yes,no,no,yes,no,no,9.79,large,incomplete,Tick Fever
+yes,yes,no,yes,no,yes,yes,no,no,7.35,medium,complete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,7.14,small,incomplete,Tick Fever
+no,no,yes,yes,no,yes,yes,no,no,9.08,small,unknown,Tick Fever
+yes,no,no,yes,no,yes,yes,no,yes,11.16,medium,incomplete,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,11.5,large,incomplete,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,5.0,large,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,4.1,large,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,8.84,small,incomplete,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,7.39,large,complete,Tick Fever
+no,yes,no,yes,no,no,yes,no,no,9.74,small,complete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,3.68,large,incomplete,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,4.9,small,incomplete,Tick Fever
+yes,no,yes,yes,no,yes,yes,no,no,5.02,medium,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,3.48,small,complete,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,0.51,large,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,yes,no,9.37,medium,incomplete,Tick Fever
+yes,no,no,yes,no,yes,yes,no,no,8.43,small,incomplete,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,11.53,medium,complete,Tick Fever
+yes,no,yes,yes,no,no,yes,no,no,2.53,medium,complete,Tick Fever
+no,no,no,yes,no,yes,yes,no,no,10.68,large,incomplete,Tick Fever
+yes,yes,yes,yes,no,no,yes,no,no,9.62,medium,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,yes,no,4.38,small,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,6.67,large,unknown,Tick Fever
+yes,yes,no,yes,no,no,yes,yes,no,7.61,large,complete,Tick Fever
+no,yes,no,yes,no,no,yes,no,no,7.53,small,unknown,Tick Fever
+no,yes,no,yes,no,no,yes,no,no,5.4,large,unknown,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,2.95,large,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,2.4,large,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,6.1,small,complete,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,9.38,small,unknown,Tick Fever
+yes,no,no,yes,no,no,yes,no,no,0.93,large,complete,Tick Fever
+yes,no,no,yes,no,no,yes,no,yes,3.21,large,complete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,7.7,medium,complete,Tick Fever
+yes,yes,yes,yes,no,no,yes,no,no,2.34,small,complete,Tick Fever
+no,no,no,yes,no,no,yes,no,no,1.0,small,unknown,Tick Fever
+no,yes,no,yes,no,no,yes,no,no,8.8,large,unknown,Tick Fever
+yes,yes,no,yes,no,no,yes,no,no,1.63,medium,unknown,Tick Fever
+no,no,no,yes,no,no,yes,no,no,2.17,medium,unknown,Tick Fever
+yes,no,no,yes,no,no,no,yes,yes,3.67,small,incomplete,Rabies
+no,yes,no,no,no,no,no,yes,yes,2.55,medium,incomplete,Rabies
+no,no,no,no,no,no,yes,yes,yes,11.66,small,unknown,Rabies
+no,no,no,yes,no,no,no,yes,yes,5.88,medium,complete,Rabies
+no,no,no,yes,no,no,no,yes,yes,7.35,large,incomplete,Rabies
+no,no,yes,no,no,no,no,yes,yes,6.35,medium,incomplete,Rabies
+no,no,no,yes,no,no,no,yes,yes,6.97,large,complete,Rabies
+no,no,no,yes,no,no,no,yes,yes,0.78,small,incomplete,Rabies
+no,no,no,yes,no,no,no,yes,yes,9.4,medium,unknown,Rabies
+yes,no,no,no,no,no,yes,yes,yes,7.75,large,incomplete,Rabies
+yes,yes,no,yes,yes,no,no,yes,yes,6.78,large,incomplete,Rabies
+yes,no,no,yes,no,no,no,yes,yes,8.29,small,unknown,Rabies
+yes,no,yes,yes,no,no,no,yes,yes,8.64,small,incomplete,Rabies
+yes,no,no,no,no,no,no,yes,yes,9.18,large,unknown,Rabies
+yes,no,no,yes,no,no,no,yes,yes,8.35,small,incomplete,Rabies
+yes,no,no,no,no,no,no,yes,yes,6.66,medium,unknown,Rabies
+no,no,no,no,no,no,no,yes,yes,10.67,medium,incomplete,Rabies
+yes,no,no,no,no,no,yes,yes,yes,2.48,small,incomplete,Rabies
+no,no,no,no,no,no,no,yes,yes,11.65,small,incomplete,Rabies
+no,no,no,yes,no,no,yes,yes,yes,0.85,large,unknown,Rabies
+no,no,no,no,no,no,no,yes,yes,7.36,large,incomplete,Rabies
+no,no,no,no,no,no,yes,yes,yes,3.56,medium,incomplete,Rabies
+no,yes,no,yes,no,no,yes,yes,yes,11.14,medium,incomplete,Rabies
+yes,no,no,no,no,no,no,yes,no,2.44,medium,incomplete,Rabies
+no,no,yes,yes,no,no,no,yes,yes,8.19,small,unknown,Rabies
+yes,no,no,yes,no,no,no,yes,yes,5.21,small,incomplete,Rabies
+no,no,no,no,no,no,no,yes,yes,6.38,medium,incomplete,Rabies
+no,no,no,no,no,no,no,yes,yes,2.28,medium,incomplete,Rabies
+yes,no,no,yes,no,no,no,yes,yes,1.93,large,complete,Rabies
+no,no,yes,yes,no,no,no,yes,yes,7.25,medium,incomplete,Rabies
+yes,yes,no,no,no,no,no,yes,yes,11.72,medium,incomplete,Rabies
+yes,no,no,no,no,no,no,yes,yes,2.29,medium,unknown,Rabies
+yes,yes,no,yes,no,no,no,yes,yes,7.0,medium,incomplete,Rabies
+no,no,no,yes,no,no,no,yes,yes,10.83,medium,incomplete,Rabies
+yes,no,yes,yes,no,no,no,yes,yes,10.49,small,unknown,Rabies
+no,no,no,yes,no,no,no,yes,yes,3.72,medium,incomplete,Rabies
+no,no,no,yes,no,no,no,yes,yes,6.91,medium,complete,Rabies
+no,no,no,yes,no,no,yes,yes,yes,0.63,large,incomplete,Rabies
+no,no,no,no,no,no,no,yes,yes,6.21,small,incomplete,Rabies
+yes,no,no,no,no,no,no,yes,yes,4.72,medium,incomplete,Rabies
